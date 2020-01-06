@@ -1,0 +1,451 @@
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "你好"
+}
+
+<> 2020-01-06T031122.200.json
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T031116.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "你好"
+}
+
+<> 2020-01-06T030603.200.json
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "speak now"
+}
+
+<> 2020-01-06T023538.200.json
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "speak now"
+}
+
+<> 2020-01-06T023519.415.html
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "speak now"
+}
+
+<> 2020-01-06T023401.415.html
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T023337.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T023331.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T023318.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "speak now"
+}
+
+<> 2020-01-06T023248.415.html
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "speak now"
+}
+
+<> 2020-01-06T023056.415.html
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T022812.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T112320.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T112251.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T112126.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T112103.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Accept-Charset: utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T112044.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Accept-Charset: utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+
+msg=哈哈哈
+
+<> 2020-01-06T112033.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Accept-Charset: utf-8
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T111941.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T111913.200.txt
+
+###
+
+POST http://localhost:8080/helloword/hi
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+<> 2020-01-06T110922.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T110650.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T110128.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T110114.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi
+Accept: */*
+Cache-Control: no-cache
+
+msg=哈哈哈
+
+###
+
+GET http://localhost:8080/helloword/hi
+Accept: */*
+Cache-Control: no-cache
+
+msg=哈哈哈
+
+###
+
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Cache-Control: no-cache
+
+msg=哈哈哈
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T105455.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T105243.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T105215.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi？msg=的?msg=hi&msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T105145.404.html
+
+###
+
+GET http://localhost:8080/helloword/hi？msg?msg=hi&msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T105140.404.html
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=hi&msg=哈哈哈
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=hi
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T093833.200.txt
+
+###
+
+GET http://localhost:8080/helloword/hi?msg=hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T093639.404.html
+
+###
+
+GET http://localhost:8080/hi?msg=hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T093538.200.txt
+
+###
+
+GET http://localhost:8080/hello?id=1&name=hui
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092852.200.txt
+
+###
+
+GET http://localhost:8080/hello/id=1&name=hui
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092831.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092746.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092720-2.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092720-1.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092720.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092719.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092718.404.html
+
+###
+
+GET http://localhost:8080/hello/id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092716.404.html
+
+###
+
+GET http://localhost:8080/hello/User.id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092655.404.html
+
+###
+
+GET http://localhost:8080/hello/User.id=1?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092624.404.html
+
+###
+
+GET http://localhost:8080/hello?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092608.200.txt
+
+###
+
+GET http://localhost:8080/hello?msg=hi&user.id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-06T092607.200.txt
+
+###
+

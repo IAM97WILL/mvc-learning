@@ -1,6 +1,7 @@
 package com.bailiban.controller;
 
 import com.bailiban.controller.model.User;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -9,11 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @RequestMapping("/hello")
-    public String HelloWorld(User user)
+    public User HelloWorld(@RequestBody User user)
     {
         System.out.println(user);
-        return user.toString();
+        return user;
     }
+
     @RequestMapping("/hi")
     public String Hi(String msg)
     {

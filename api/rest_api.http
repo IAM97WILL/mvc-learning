@@ -1,0 +1,19 @@
+POST http://localhost:8080/helloword/hi
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+
+msg=哈哈哈
+
+
+
+###
+
+POST http://localhost:8080/helloword/hello
+Content-Type: application/json
+
+{
+  "id": 13,
+  "name": "你好"
+}
+
+###
