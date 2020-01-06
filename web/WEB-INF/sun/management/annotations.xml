@@ -1,0 +1,5 @@
+<root>
+    <item name='sun.management.MethodInfo'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
